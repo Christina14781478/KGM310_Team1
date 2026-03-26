@@ -24,4 +24,7 @@ and analysis skills covered in class.
 - Auto Customer Churn Dataset (`Telco-Customer-Churn.csv`)
 
 ## Team Members
-- [Add your team members here]
+- Arij Faiha
+- Huyngim Eng
+- Jessica Novita
+- Shi Xiaoyu
