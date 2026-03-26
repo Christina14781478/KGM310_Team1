@@ -21,7 +21,7 @@ and analysis skills covered in class.
 - `scikit-learn` - Machine learning / data splitting
 
 ##  Datasets
-- Auto Customer Churn Dataset (`Telco-Customer-Churn.csv`)
+- Customer Churn Dataset (`Telco-Customer-Churn.csv`)
 
 ## Team Members
 - Arij Faiha
